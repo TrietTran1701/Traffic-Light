@@ -1,0 +1,9 @@
+input_processing.c:38:18:display_light	32	static
+input_processing.c:71:19:display_led_normal	32	static
+input_processing.c:179:19:display_led_red	40	static
+input_processing.c:232:19:display_counter_red	24	static
+input_processing.c:273:19:display_led_yellow	40	static
+input_processing.c:326:19:display_counter_yellow	24	static
+input_processing.c:365:19:display_led_green	40	static
+input_processing.c:418:19:display_counter_green	24	static
+input_processing.c:457:7:fsm_for_input_processing	8	static

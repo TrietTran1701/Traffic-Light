@@ -1,0 +1,3 @@
+display7SEG.c:16:6:turn_off_7seg	16	static
+display7SEG.c:34:6:display7SEG	32	static
+display7SEG.c:88:6:display_mode	24	static
